@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-skillPolls-skillPollsTests/Pods-skillPolls-skillPollsTests-frameworks.sh
+${PODS_XCFRAMEWORKS_BUILD_DIR}/CFSDK/CFSDK.framework/CFSDK
+${PODS_XCFRAMEWORKS_BUILD_DIR}/razorpay-pod/Razorpay.framework/Razorpay

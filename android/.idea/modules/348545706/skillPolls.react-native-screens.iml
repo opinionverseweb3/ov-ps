@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":react-native-screens" external.linked.project.path="$MODULE_DIR$/../../../../node_modules/react-native-screens/android" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="skillPolls" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":react-native-screens" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="4.0.0" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="4.0.0" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../../node_modules/react-native-screens/android/src/main/res;file://$MODULE_DIR$/../../../../node_modules/react-native-screens/android/src/debug/res;file://$MODULE_DIR$/../../../../node_modules/react-native-screens/android/build/generated/res/rs/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../../node_modules/react-native-screens/android/src/androidTest/res;file://$MODULE_DIR$/../../../../node_modules/react-native-screens/android/src/androidTestDebug/res;file://$MODULE_DIR$/../../../../node_modules/react-native-screens/android/build/generated/res/rs/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../node_modules/react-native-screens/android/build/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$USER_HOME$/.gradle/caches/transforms-3/5982ba84ff1bfcfc1d630f8774eaec9b/transformed/jetified-react-native-0.67.3-api.jar:/Users/crusader/.gradle/caches/transforms-3/9f5b78bb022461df3146e3518fbc033a/transformed/jetified-imagepipeline-okhttp3-2.5.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/ec10e5fe5e6cfba51c5fe107f7c01f39/transformed/jetified-okhttp-urlconnection-4.9.2.jar:/Users/crusader/.gradle/caches/transforms-3/5dd4a395d70fa0cb2d63ace5fffa93c5/transformed/jetified-okhttp-4.9.2.jar:/Users/crusader/.gradle/caches/transforms-3/a2d20802fa3f82d89b95993b79154c85/transformed/jetified-okio-jvm-2.9.0.jar:/Users/crusader/.gradle/caches/transforms-3/452108d9b9f9f33d64f06e85791bfebd/transformed/jetified-kotlin-stdlib-jdk8-1.4.10.jar:/Users/crusader/.gradle/caches/transforms-3/4d2af8200b322fbd734e79d41d1d83cd/transformed/jetified-kotlin-stdlib-jdk7-1.4.10.jar:/Users/crusader/.gradle/caches/transforms-3/8e2f129a62e5d64f332b99222274ab81/transformed/jetified-kotlin-stdlib-1.4.10.jar:/Users/crusader/.gradle/caches/transforms-3/890c1aa5f3a8d31d872bc06c2c038863/transformed/jetified-kotlin-stdlib-common-1.4.10.jar:/Users/crusader/.gradle/caches/transforms-3/4c0beb90c58e938752a5b07363e37059/transformed/jetified-annotations-13.0.jar:/Users/crusader/.gradle/caches/transforms-3/3b2971b7b6902e7d6af320e59b8e9c4b/transformed/jetified-infer-annotation-0.18.0.jar:/Users/crusader/.gradle/caches/transforms-3/d65122553b698e76be3720288068076b/transformed/jetified-jsr305-3.0.2.jar:/Users/crusader/.gradle/caches/transforms-3/1f173d1892ff99a7d5659fad5981f00b/transformed/jetified-kotlin-annotations-jvm-1.3.72.jar:/Users/crusader/.gradle/caches/transforms-3/5975854a06e2dc60f8e87efd42b05f38/transformed/jetified-proguard-annotations-1.19.0.jar:/Users/crusader/.gradle/caches/transforms-3/3c69bd22a940107099d5fea6bf0a3ca4/transformed/jetified-javax.inject-1.jar:/Users/crusader/.gradle/caches/transforms-3/c0bfad12742355f9137882572f72ac8c/transformed/material-1.1.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/20de80a6680f7d282dc4ad38656a12a3/transformed/appcompat-1.1.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/bc94c9dde1ab74ee8f1fb12ab34f4d64/transformed/jetified-viewpager2-1.0.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/4c821cbdfd002916723644903b47e847/transformed/fragment-1.2.1-api.jar:/Users/crusader/.gradle/caches/transforms-3/746552ab507e8b5a459e8907c77f16b5/transformed/coordinatorlayout-1.1.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/92d5ce175626ee138d7aafee96ed41a2/transformed/swiperefreshlayout-1.0.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/d34575a3c94842f08041e1fed25b890c/transformed/jetified-appcompat-resources-1.1.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/f472d600c4f8d14c0d022e78d50d7c99/transformed/drawerlayout-1.0.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/36383b8ada1880bfd37eaa277f836828/transformed/viewpager-1.0.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/11d7db5756de9db9cbfbeecc921c7dc8/transformed/loader-1.0.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/1d252819c765fddd2adb188e3c078964/transformed/jetified-activity-1.1.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/1f26c9c62c96386983b718b68bbbcc9b/transformed/recyclerview-1.1.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/1d90b4aa16fe966f71b598e10afae659/transformed/customview-1.0.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/6f2c9349a00340f825713c735e088bde/transformed/transition-1.2.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/f66c7419f5424174907febc6982f61eb/transformed/vectordrawable-animated-1.1.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/6d40c98ace7a14c9b299dcb0cb3e4f12/transformed/vectordrawable-1.1.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/17494a8949cb1f8f7b9075b30bc2a831/transformed/core-1.1.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/fc34b04c205748708fa76ed5f2971d36/transformed/cursoradapter-1.0.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/3966160e6cb85acfc68dd9318f10f972/transformed/versionedparcelable-1.1.0-api.jar:/Users/crusader/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar:/Users/crusader/.gradle/caches/transforms-3/74231006871981684c5beeda1b108a58/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/d7896f223d10f8b19e3227460dfc2038/transformed/lifecycle-viewmodel-2.2.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/9784a6036b733accc22316acde57a707/transformed/interpolator-1.0.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/75187b614ffa4cd118c5a21bff6c8964/transformed/cardview-1.0.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/8a985d9cf5235cd039ddf9a851a76c0f/transformed/lifecycle-runtime-2.2.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/bd318d813263a551f8821b169cee8b8c/transformed/jetified-savedstate-1.0.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/a4be5b84181e7455eb58aa6a3dc3e464/transformed/lifecycle-livedata-2.0.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/2d3a1e8e0fbd8fcee96518f8896fc541/transformed/lifecycle-livedata-core-2.2.0-api.jar:/Users/crusader/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/4ef09a745007778eef83b92f8f23987a8ea59496/lifecycle-common-2.2.0.jar:/Users/crusader/.gradle/caches/transforms-3/e363633247b1ea84f0150707471204cb/transformed/core-runtime-2.1.0-api.jar:/Users/crusader/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar:/Users/crusader/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.1.0/e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8/annotation-1.1.0.jar:/Users/crusader/.gradle/caches/transforms-3/a9f81f315179125b7f76bcbcd73a8e4d/transformed/jetified-autofill-1.1.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/ecbbb60bb5a2d224532d85aab7ab8ecb/transformed/jetified-fresco-2.5.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/fc9fdf5d8c3b2803ef662b10d0d2fce9/transformed/jetified-fbcore-2.5.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/1d2f88fee1e371f2ee34be8c4e9175ad/transformed/jetified-soloader-0.10.1-api.jar:/Users/crusader/.gradle/caches/transforms-3/4337174c41c99eeafda3513cc88f3866/transformed/jetified-annotation-0.10.1.jar:/Users/crusader/.gradle/caches/transforms-3/9d691fa6d70bd742a33092ccb2f52a44/transformed/jetified-nativeloader-0.10.1.jar:/Users/crusader/.gradle/caches/transforms-3/b8ebeaed1a60a9e97ae72be8b52c5cdf/transformed/jetified-ui-common-2.5.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/08a1bac8e84d766b1256e7a7ba15b44c/transformed/jetified-drawee-2.5.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/e6d17a71134efb4970df7207d6e312f6/transformed/jetified-imagepipeline-2.5.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/acf7827cdd114ada38828b13de2cff38/transformed/jetified-imagepipeline-base-2.5.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/97284fd07a0bb3809390cef140a534d1/transformed/jetified-imagepipeline-native-2.5.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/1e0dd5ebb25d802b2268e545ce898bad/transformed/jetified-memory-type-ashmem-2.5.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/8c2c60c58e6139e21900e1edf023a68c/transformed/jetified-memory-type-native-2.5.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/868420d17443749a6b1c0b88994d0cf0/transformed/jetified-memory-type-java-2.5.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/bdde20c3114498729504578d02bca644/transformed/jetified-nativeimagefilters-2.5.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/52435190e62fdaba862cba4a93e84340/transformed/jetified-nativeimagetranscoder-2.5.0-api.jar:/Users/crusader/.gradle/caches/transforms-3/64b6a608290a448f5dac844e3e262555/transformed/jetified-fbjni-java-only-0.2.2.jar:/Users/crusader/Library/Android/sdk/platforms/android-31/android.jar:/Users/crusader/Library/Android/sdk/build-tools/29.0.2/core-lambda-stubs.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="react-native-screens_debug" />
+          <option name="jvmTarget" value="1.6" />
+          <option name="languageVersion" value="1.4" />
+          <option name="apiVersion" value="1.4" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../../node_modules/react-native-screens/android/build/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../node_modules/react-native-screens/android/build/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-screens/android">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-screens/android/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-screens/android/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 31 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

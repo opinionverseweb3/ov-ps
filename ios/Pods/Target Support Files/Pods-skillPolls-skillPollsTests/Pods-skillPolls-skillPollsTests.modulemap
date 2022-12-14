@@ -1,0 +1,6 @@
+module Pods_skillPolls_skillPollsTests {
+  umbrella header "Pods-skillPolls-skillPollsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-pg-react-native-sdk/ios/RNPgReactNativeSdkBridge.h

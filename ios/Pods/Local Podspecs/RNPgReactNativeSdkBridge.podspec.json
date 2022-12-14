@@ -1,0 +1,24 @@
+{
+  "name": "RNPgReactNativeSdkBridge",
+  "version": "2.1.8",
+  "summary": "The Cashfree React SDK allows you to integrate Cashfree Payment Gateway into your application and start collecting payments from your customers. It opens the payment page in a webview. The Cashfree SDK has been designed to minimise the complexity of handling and integrating payments in your React Native project.",
+  "description": "The Cashfree React SDK allows you to integrate Cashfree Payment Gateway into your application and start collecting payments from your customers. It opens the payment page in a webview. The Cashfree SDK has been designed to minimise the complexity of handling and integrating payments in your React Native project.",
+  "homepage": "https://www.npmjs.com/package/react-native-pg-react-native-sdk",
+  "license": "MIT",
+  "authors": "developers@cashfree.com",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "ios/**/*.{h,m}",
+  "dependencies": {
+    "React": [
+
+    ],
+    "CFSDK": [
+      "~>2.1.1"
+    ]
+  }
+}

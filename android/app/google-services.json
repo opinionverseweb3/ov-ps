@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "317547974154",
+    "project_id": "opinionverse-508bf",
+    "storage_bucket": "opinionverse-508bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317547974154:android:50eaf2085b2285c2e9d9f3",
+        "android_client_info": {
+          "package_name": "com.opinionverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317547974154-0v5ghvo0t2lpgecajq7d0j1nj0iuo1nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-g2lF1skXXQN-Qy84uZS7PraOXv7uWOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317547974154-0v5ghvo0t2lpgecajq7d0j1nj0iuo1nv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

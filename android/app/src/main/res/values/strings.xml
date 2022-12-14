@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OpinionVerse</string>
+     <!-- Production -->
+    <string moduleConfig="true" name="CodePushDeploymentKey">w68KQgydoXBqXrZ4yOsgioj4gfnjqwwwovjfg</string>
+    <!-- Development -->
+    <!-- <string moduleConfig="true" name="CodePushDeploymentKey">H4pdW1JEVHJWYpq-VshpIGUltfJ8Vxhk56TaD</string> -->
+     <!-- Staging -->
+    <!-- <string moduleConfig="true" name="CodePushDeploymentKey">IX_XU4ZdGEgKJYmxEt4Z9QOroTiR-2yXhRvgQ</string> -->
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+    <string name="facebook_app_id">525289369429127</string>
+    <string name="facebook_client_token">722f72e94aebe1e475bb36ee23a53953</string>
+</resources>
